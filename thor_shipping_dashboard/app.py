@@ -160,7 +160,7 @@ def main() -> None:
     st.title("AYN Thor Shipping Dashboard")
     st.caption("Visualize shipping progress by Variant and Colorway.")
 
-    use_live = st.toggle("Use live data from AYN dashboard", value=False, help="Scrape the latest from ayntec.com; falls back to bundled JSON if it fails.")
+    use_live = st.toggle("Use live data from AYN dashboard", value=True, help="Scrape the latest from ayntec.com; falls back to bundled JSON if it fails.")
     if use_live:
         try:
             df = scrape_ayn_dashboard()
