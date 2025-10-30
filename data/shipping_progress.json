@@ -1,0 +1,93 @@
+[
+  {"date": "2025-10-13", "variant": "Base", "color": "Black", "start_prefix": 732, "end_prefix": 741},
+  {"date": "2025-10-13", "variant": "Pro", "color": "Black", "start_prefix": 732, "end_prefix": 736},
+  {"date": "2025-10-13", "variant": "Max", "color": "Black", "start_prefix": 732, "end_prefix": 737},
+  {"date": "2025-10-13", "variant": "Pro", "color": "White", "start_prefix": 732, "end_prefix": 755},
+  {"date": "2025-10-13", "variant": "Max", "color": "White", "start_prefix": 732, "end_prefix": 759},
+  {"date": "2025-10-13", "variant": "Pro", "color": "Rainbow", "start_prefix": 732, "end_prefix": 737},
+  {"date": "2025-10-13", "variant": "Max", "color": "Rainbow", "start_prefix": 732, "end_prefix": 738},
+  {"date": "2025-10-13", "variant": "Pro", "color": "Clear Purple", "start_prefix": 732, "end_prefix": 735},
+  {"date": "2025-10-13", "variant": "Max", "color": "Clear Purple", "start_prefix": 732, "end_prefix": 735},
+
+  {"date": "2025-10-14", "variant": "Base", "color": "Black", "start_prefix": 741, "end_prefix": 768},
+  {"date": "2025-10-14", "variant": "Pro", "color": "Black", "start_prefix": 736, "end_prefix": 737},
+  {"date": "2025-10-14", "variant": "Max", "color": "Black", "start_prefix": 737, "end_prefix": 755},
+  {"date": "2025-10-14", "variant": "Pro", "color": "Rainbow", "start_prefix": 737, "end_prefix": 740},
+  {"date": "2025-10-14", "variant": "Max", "color": "Rainbow", "start_prefix": 738, "end_prefix": 757},
+  {"date": "2025-10-14", "variant": "Max", "color": "Clear Purple", "start_prefix": 735, "end_prefix": 739},
+
+  {"date": "2025-10-15", "variant": "Base", "color": "Black", "start_prefix": 768, "end_prefix": 773},
+  {"date": "2025-10-15", "variant": "Pro", "color": "Black", "start_prefix": 737, "end_prefix": 749},
+  {"date": "2025-10-15", "variant": "Pro", "color": "Rainbow", "start_prefix": 740, "end_prefix": 754},
+  {"date": "2025-10-15", "variant": "Max", "color": "Rainbow", "start_prefix": 757, "end_prefix": 767},
+  {"date": "2025-10-15", "variant": "Pro", "color": "Clear Purple", "start_prefix": 735, "end_prefix": 755},
+  {"date": "2025-10-15", "variant": "Max", "color": "Clear Purple", "start_prefix": 739, "end_prefix": 754},
+
+  {"date": "2025-10-16", "variant": "Max", "color": "Black", "start_prefix": 755, "end_prefix": 776},
+  {"date": "2025-10-16", "variant": "Max", "color": "White", "start_prefix": 732, "end_prefix": 759},
+  {"date": "2025-10-16", "variant": "Pro", "color": "Rainbow", "start_prefix": 754, "end_prefix": 766},
+  {"date": "2025-10-16", "variant": "Max", "color": "Rainbow", "start_prefix": 758, "end_prefix": 771},
+  {"date": "2025-10-16", "variant": "Max", "color": "Clear Purple", "start_prefix": 754, "end_prefix": 764},
+
+  {"date": "2025-10-17", "variant": "Base", "color": "Black", "start_prefix": 768, "end_prefix": 799},
+  {"date": "2025-10-17", "variant": "Max", "color": "Black", "start_prefix": 776, "end_prefix": 794},
+  {"date": "2025-10-17", "variant": "Max", "color": "White", "start_prefix": 759, "end_prefix": 796},
+  {"date": "2025-10-17", "variant": "Max", "color": "Rainbow", "start_prefix": 771, "end_prefix": 786},
+  {"date": "2025-10-17", "variant": "Max", "color": "Clear Purple", "start_prefix": 764, "end_prefix": 776},
+
+  {"date": "2025-10-18", "variant": "Base", "color": "Black", "start_prefix": 799, "end_prefix": 825},
+  {"date": "2025-10-18", "variant": "Max", "color": "Black", "start_prefix": 794, "end_prefix": 806},
+  {"date": "2025-10-18", "variant": "Max", "color": "White", "start_prefix": 796, "end_prefix": 837},
+  {"date": "2025-10-18", "variant": "Pro", "color": "Rainbow", "start_prefix": 766, "end_prefix": 767},
+  {"date": "2025-10-18", "variant": "Max", "color": "Rainbow", "start_prefix": 786, "end_prefix": 798},
+  {"date": "2025-10-18", "variant": "Max", "color": "Clear Purple", "start_prefix": 776, "end_prefix": 780},
+
+  {"date": "2025-10-20", "variant": "Pro", "color": "Black", "start_prefix": 749, "end_prefix": 775},
+  {"date": "2025-10-20", "variant": "Max", "color": "Black", "start_prefix": 806, "end_prefix": 821},
+  {"date": "2025-10-20", "variant": "Max", "color": "White", "start_prefix": 837, "end_prefix": 881},
+  {"date": "2025-10-20", "variant": "Max", "color": "Rainbow", "start_prefix": 798, "end_prefix": 821},
+
+  {"date": "2025-10-21", "variant": "Pro", "color": "Black", "start_prefix": 775, "end_prefix": 783},
+  {"date": "2025-10-21", "variant": "Pro", "color": "Rainbow", "start_prefix": 767, "end_prefix": 811},
+  {"date": "2025-10-21", "variant": "Pro", "color": "Clear Purple", "start_prefix": 755, "end_prefix": 758},
+  {"date": "2025-10-21", "variant": "Max", "color": "Rainbow", "start_prefix": 821, "end_prefix": 845},
+
+  {"date": "2025-10-22", "variant": "Pro", "color": "Black", "start_prefix": 783, "end_prefix": 801},
+  {"date": "2025-10-22", "variant": "Pro", "color": "White", "start_prefix": 755, "end_prefix": 778},
+  {"date": "2025-10-22", "variant": "Pro", "color": "Clear Purple", "start_prefix": 758, "end_prefix": 771},
+
+  {"date": "2025-10-23", "variant": "Pro", "color": "White", "start_prefix": 778, "end_prefix": 825},
+  {"date": "2025-10-23", "variant": "Pro", "color": "Rainbow", "start_prefix": 811, "end_prefix": 839},
+  {"date": "2025-10-23", "variant": "Pro", "color": "Clear Purple", "start_prefix": 771, "end_prefix": 830},
+
+  {"date": "2025-10-24", "variant": "Pro", "color": "Black", "start_prefix": 801, "end_prefix": 809},
+  {"date": "2025-10-24", "variant": "Pro", "color": "Rainbow", "start_prefix": 839, "end_prefix": 847},
+  {"date": "2025-10-24", "variant": "Pro", "color": "Clear Purple", "start_prefix": 830, "end_prefix": 872},
+
+  {"date": "2025-10-25", "variant": "Pro", "color": "White", "start_prefix": 825, "end_prefix": 875},
+  {"date": "2025-10-25", "variant": "Pro", "color": "Clear Purple", "start_prefix": 872, "end_prefix": 874},
+
+  {"date": "2025-10-27", "variant": "Base", "color": "Black", "start_prefix": 825, "end_prefix": 833},
+  {"date": "2025-10-27", "variant": "Max", "color": "Black", "start_prefix": 806, "end_prefix": 834},
+  {"date": "2025-10-27", "variant": "Pro", "color": "Black", "start_prefix": 809, "end_prefix": 820},
+  {"date": "2025-10-27", "variant": "Pro", "color": "Rainbow", "start_prefix": 847, "end_prefix": 880},
+
+  {"date": "2025-10-28", "variant": "Max", "color": "Black", "start_prefix": 834, "end_prefix": 861},
+  {"date": "2025-10-28", "variant": "Pro", "color": "Black", "start_prefix": 820, "end_prefix": 865},
+  {"date": "2025-10-28", "variant": "Max", "color": "Rainbow", "start_prefix": 845, "end_prefix": 859},
+
+  {"date": "2025-10-29", "variant": "Max", "color": "Black", "start_prefix": 861, "end_prefix": 875},
+  {"date": "2025-10-29", "variant": "Pro", "color": "Black", "start_prefix": 865, "end_prefix": 886},
+  {"date": "2025-10-29", "variant": "Max", "color": "Rainbow", "start_prefix": 859, "end_prefix": 868},
+  {"date": "2025-10-29", "variant": "Base", "color": "Black", "start_prefix": 833, "end_prefix": 839},
+  {"date": "2025-10-29", "variant": "Max", "color": "Clear Purple", "start_prefix": 780, "end_prefix": 818}
+
+ ,
+  {"date": "2025-10-30", "variant": "Pro", "color": "White", "start_prefix": 875, "end_prefix": 878},
+  {"date": "2025-10-30", "variant": "Base", "color": "Black", "start_prefix": 839, "end_prefix": 880},
+  {"date": "2025-10-30", "variant": "Max", "color": "Clear Purple", "start_prefix": 818, "end_prefix": 836}
+ 
+]
+
+
+
