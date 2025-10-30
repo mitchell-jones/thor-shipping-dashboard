@@ -1,0 +1,22 @@
+[project]
+name = "thor-shipping-dashboard"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "pandas",
+  "streamlit",
+  "matplotlib",
+  "requests",
+  "beautifulsoup4",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = [
+  "thor_shipping_dashboard",
+]
